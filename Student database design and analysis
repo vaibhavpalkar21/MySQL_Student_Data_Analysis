@@ -1,0 +1,6 @@
+# MySQL_Student_Data_Analysis
+
+Objective: Design student result database and find the answers to the questions.
+
+Result Data (Total number of classes are ten, each class has roll_no 1, 2, 3…. & so on, and
+each student has marks for four subjects)
